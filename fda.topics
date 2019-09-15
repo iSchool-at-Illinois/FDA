@@ -1,0 +1,86 @@
+:Math a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Syllabus" ;
+  skos:prefLabel "Mathematics, statistics and data"@en .
+
+:MVD a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll ch. 1; Rogel-Salazar ch. 1" ;
+  skos:prefLabel "Representing multivariate data"@en .
+
+:OpMatrix a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 2.1-2.6; Rogel-Salazar ch. 2" ;
+  skos:prefLabel "Operations on matrices"@en .
+
+:DeMatrix a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 2.7-2.9; Rogel-Salazar ch. 3" ;
+  skos:prefLabel "Determinants of matrices"@en .
+
+:GeoVector a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 3.1-3.3; Rogel-Salazar ch. 4" ;
+  skos:prefLabel "Geometric representations of vectors"@en .
+
+:LinDep a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 3.4; Rogel-Salazar ch. 5" ;
+  skos:prefLabel "Linear Dependence"@en .
+
+:LinTrans a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 3.5-4.2; Rogel-Salazar ch. 6" ;
+  skos:prefLabel "Linear transformations"@en .
+
+:MatrixInv a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 4.3-4.8" ;
+  skos:prefLabel "Matrix inversion"@en .
+
+:CovTrans a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 5.1-5.4" ;
+  skos:prefLabel "Transformation of covariance matrices"@en .
+
+:MatrixEig a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 5.5-5.7" ;
+  skos:prefLabel "Matrix eigenstructures"@en .
+
+:QuadForms a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 5.8-5.10" ;
+  skos:prefLabel "Quadratic forms"@en .
+
+:SymDif a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll A.1-A.4" ;
+  skos:prefLabel "Symbolic differentiation"@en .
+
+:OptFunc a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll A.5-A.6" ;
+  skos:prefLabel "Optimization of multivariable functions"@en .
+
+:LinMod a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 6.1-6.3, A.5.1" ;
+  skos:prefLabel "Applications: linear models and multiple regression"@en .
+
+:PCA a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 6.4, A.5.2" ;
+  skos:prefLabel "Applications: principal components analysis"@en .
+
+:LDA a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll 6.5, A.5.3" ;
+  skos:prefLabel "Applications: principal components analysis"@en .
+
+:Wrapup a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  :reqReading "Green and Carroll, 6.6-6.7" ;  
+  skos:prefLabel "Semester Wrapup"@en .
+
+
