@@ -21,68 +21,68 @@
   :dueDate "DETERDUE" ;  
   :hasDeadline :HDdeterminants .
 
-:Logic1Hwk a :Assignment ;
-  rdfs:label "Problem set: Predicate Logic"@en ;
-  :moodleURL hwk:MOODLELOG1HWK ;
+:GeomHwk a :Assignment ;
+  rdfs:label "Problem set: geometric representations"@en ;
+  :moodleURL hwk:MOODLEGEOHWK ;
   :sylSecId "Homework" ;
-  :dueDate "LOGIC1DUE" ;  
-  :hasDeadline :HDlogic1 .
+  :dueDate "GEOMDUE" ;  
+  :hasDeadline :HDgeom .
 
-:CountingHwk a :Assignment ;
-  rdfs:label "Problem set: Combinatorics"@en ;
-  :moodleURL hwk:MOODLECOMBHWK ;
+:LinDepHwk a :Assignment ;
+  rdfs:label "Problem set: linear dependence"@en ;
+  :moodleURL hwk:MOODLELINDEPHWK ;
   :sylSecId "Homework" ;
-  :dueDate "COUNTINGDUE" ;  
-  :hasDeadline :HDcounting .
+  :dueDate "LINDEPDUE" ;  
+  :hasDeadline :HDlindep .
 
-:ProbHwk a :Assignment ;
-  rdfs:label "Problem set: Probability"@en ;
-  :moodleURL hwk:MOODLEPROBHWK ;
+:LinTransHwk a :Assignment ;
+  rdfs:label "Problem set: linear transformations"@en ;
+  :moodleURL hwk:MOODLELINTRANSHWK ;
   :sylSecId "Homework" ;
-  :dueDate "PROBDUE" ;  
-  :hasDeadline :HDprob .
+  :dueDate "LINTRANSDUE" ;  
+  :hasDeadline :HDlintrans .
 
-:DistHwk a :Assignment ;
-  rdfs:label "Problem set: Distributions"@en ;
-  :moodleURL hwk:MOODLEDISTHWK ;
+:CovTransHwk a :Assignment ;
+  rdfs:label "Problem set: covariance transformations"@en ;
+  :moodleURL hwk:MOODLECOVTRANSHWK ;
   :sylSecId "Homework" ;
-  :dueDate "DISTDUE" ;
-  :hasDeadline :HDdist .
+  :dueDate "COVTRANSDUE" ;
+  :hasDeadline :HDcovtrans .
 
-:Graph1Hwk a :Assignment ;
-  rdfs:label "Problem set: Graphs, part 1"@en ;
-  :moodleURL hwk:MOODLEGRPH1HWK ;
+:EigenHwk a :Assignment ;
+  rdfs:label "Problem set: eigenstructures"@en ;
+  :moodleURL hwk:MOODLEEIGENHWK ;
   :sylSecId "Homework" ;
-  :dueDate "GRAPH1DUE" ;
-  :hasDeadline :HDgraph1 .
+  :dueDate "EIGENDUE" ;
+  :hasDeadline :HDeigen .
 
-:Graph2Hwk a :Assignment ;
-  rdfs:label "Problem set: Graphs, part 2"@en ;
-  :moodleURL hwk:MOODLEGRPH2HWK ;
+:LinModHwk a :Assignment ;
+  rdfs:label "Problem set: linear models"@en ;
+  :moodleURL hwk:MOODLELINMODHWK ;
   :sylSecId "Homework" ;
-  :dueDate "GRAPH2DUE" ;  
-  :hasDeadline :HDgraph2 .
+  :dueDate "LINMODDUE" ;  
+  :hasDeadline :HDlinmod .
 
-:MatrixHwk a :Assignment ;
-  rdfs:label "Problem set: Matrices"@en ;
-  :moodleURL hwk:MOODLEMATRIXHWK ;
+:RegresHwk a :Assignment ;
+  rdfs:label "Problem set: multiple regression"@en ;
+  :moodleURL hwk:MOODLEREGRESHWK ;
   :sylSecId "Homework" ;
-  :dueDate "MATRIXDUE" ;
-  :hasDeadline :HDmatrix .
+  :dueDate "REGRESDUE" ;
+  :hasDeadline :HDregres .
 
-:Code1Hwk a :Assignment ;
-  rdfs:label "Problem set: Symbols and codes, part 1"@en ;
-  :moodleURL hwk:MOODLECODE1HWK ;
+:PCAHwk a :Assignment ;
+  rdfs:label "Problem set: principal components analysis"@en ;
+  :moodleURL hwk:MOODLEPCAHWK ;
   :sylSecId "Homework" ;
-  :dueDate "CODE1DUE" ;  
-  :hasDeadline :HDcode1 .
+  :dueDate "PCADUE" ;  
+  :hasDeadline :HDpca .
 
-:Code2Hwk a :Assignment ;
-  rdfs:label "Problem set: Symbols and codes, part 2"@en ;
-  :moodleURL hwk:MOODLECODE2HWK ;
+:LDAHwk a :Assignment ;
+  rdfs:label "Problem set: classification"@en ;
+  :moodleURL hwk:MOODLELDAHWK ;
   :sylSecId "Homework" ;
-  :dueDate "CODE2DUE" ;  
-  :hasDeadline :HDcode2 .
+  :dueDate "LDADUE" ;  
+  :hasDeadline :HDlda .
 
 :Quiz1 a :Assignment ;
   rdfs:label "Quiz 1"@en ;
