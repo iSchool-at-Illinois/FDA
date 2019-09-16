@@ -76,7 +76,12 @@
 :LDA a skos:Concept ;
   skos:inScheme :FDAconcepts ;
   :reqReading "Green and Carroll 6.5, A.5.3" ;
-  skos:prefLabel "Applications: principal components analysis"@en .
+  skos:prefLabel "Applications: classification"@en .
+
+:Review a skos:Concept ;
+  skos:inScheme :FDAconcepts ;
+  skos:prefLabel "Review"@en .
+
 
 :Wrapup a skos:Concept ;
   skos:inScheme :FDAconcepts ;

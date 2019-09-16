@@ -1,4 +1,4 @@
-| IS203-A
+| IS??7-A
 | CRN: 12345
 | Spring 2019
 | 9:00-10:20 AM, Room 428 Falk Memorial Hall

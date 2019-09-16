@@ -2,12 +2,10 @@
 
 ### Textbooks
 
-- Wallis, W. D. (2013). *Mathematics in the real world*. Birkhäuser.
-- Wallis, W. D. (2012). *A Beginner's Guide to Discrete Mathematics*. Birkhäuser.
-- Wallis, W. D. (2012). *A Beginner's Guide to Finite Mathematics*. Birkhäuser.
-- Magnus, P. D. (2012). *forallx: An Introduction to Formal Logic*. Albany, NY: SUNY.
+-  Carroll, J.D. and Green, P.E. *Mathematical tools for applied multivariate analysis*. Academic Press.
+- Rogel-Salazar, J. *Essential MATLAB and Octave*. CRC Press.
 
-All of these books are available free of charge online via the
+These books are available free of charge online via the
 university library catalog.
 
 

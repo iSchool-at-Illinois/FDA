@@ -2,25 +2,20 @@
 
 ## Learning Objectives
 
-1. Introduce mathematical structures and methods essential for understanding
-   information systems.
+1. Introduce the mathematical bases of multivariate data analysis
 
-2. Prepare students for further core and elective undergraduate
-   coursework in information sciences.
+2. Prepare students for further coursework in statistics and data mining
 
 ## Learning Outcomes
 
 Upon completion of this course, students will be able to:
 
-1. Understand the definitions and uses of discrete and finite
-   mathematical structures that are employed in information systems
-   analysis, planning, and design.
+1. Understand data analysis and data mining methods from algebraic,
+   geometric, and computational perspectives.
 
-2. Solve elemenary problems involving sets, relations, graphs, and
-   other structures.
+2. Solve problems involving vectors and matrices.
 
-3. Recognize and appreciate the roles played by mathematical objects in models
-   of application domains.
+3. Explain how data analysis routines available for higher level tools (such as the R language) work "under the hood."
 
 ## Support of broader goals and objectives
 

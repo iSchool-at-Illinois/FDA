@@ -1,11 +1,11 @@
 # Course Description
 
-A survey of mathematical topics for students in information
-sciences. Provides an introduction to sets, relations, graphs,
-grammars, probability, and propositional and predicate logic. These
-topics relate to applications in information modeling, representation
-and expression.
+An introduction to topics and techniques in transformational geometry,
+linear algebra, and calculus most relevant for the study of
+multivariate analysis, and demonstrates their roles as bases for solving
+data analytic problems.
 
 ## Pre- and Co-requisites
 
-Prerequisite: MTH 124: Finite Mathematics
+Prerequisite: IS203 or equivalent
+

@@ -3,16 +3,16 @@
 :Week3  :date "January 29 and 31";  dcterms:subject :OpMatrix .
 :Week4  :date "February 5 and 7";   dcterms:subject :DeMatrix .
 :Week5  :date "February 12 and 14"; dcterms:subject :GeoVector .
-:Week6  :date "February 19 and 21"; dcterms:subject :LinDep, SymDif .
-:Week7  :date "February 26 and 28"; dcterms:subject :LinTrans .
-:Week8  :date "March 5 and 7";      dcterms:subject :MatrixInv, OptFunc .
-:Week9  :date "March 12 and 14";    dcterms:subject :CovTrans .
+:Week6  :date "February 19 and 21"; dcterms:subject :LinDep, :SymDif .
+:Week7  :date "February 26 and 28"; dcterms:subject :LinTrans, :MatrixInv .
+:Week8  :date "March 5 and 7";      dcterms:subject :CovTrans .
+:Week9  :date "March 12 and 14";    dcterms:subject :OptFunc .
 :Week10 :date "Spring Break: March 16-25" .
-:Week11 :date "March 26 and 28";    dcterms:subject :MatrixEig .
-:Week12 :date "April 2 and 4";      dcterms:subject :QuadForms .
-:Week13 :date "April 9 and 11";     dcterms:subject :LinMod .
-:Week14 :date "April 16 and 18";    dcterms:subject :PCA .
-:Week15 :date "April 23 and 25";    dcterms:subject :LDA .
+:Week11 :date "March 26 and 28";    dcterms:subject :MatrixEig, :QuadForms .
+:Week12 :date "April 2 and 4";      dcterms:subject :LinMod .
+:Week13 :date "April 9 and 11";     dcterms:subject :PCA .
+:Week14 :date "April 16 and 18";    dcterms:subject :LDA .
+:Week15 :date "April 23 and 25";    dcterms:subject :Review .
 :Week16 :date "April 30";           dcterms:subject :Wrapup .
 :Week17 :date "Finals week" .
 

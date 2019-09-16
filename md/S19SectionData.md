@@ -1,4 +1,4 @@
-| IS203-A
+| IS??7-A
 | CRN: 12345
 | Spring, 2019
 | Tuesday and Thursday, 12:30-1:50 PM, Room 126, Information Sciences Building
