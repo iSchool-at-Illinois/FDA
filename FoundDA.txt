@@ -21,6 +21,20 @@ Topics
 
 Assignments
 
+Vector operations exercise
+Matrix operations exercise
+Determinants exercise
+Geometric representation exercise
+Linear dependence exercise
+Linear transformations exercise
+Covariance transformations exercise
+Eigenstructures exercise
+Linear models exercise
+Multiple regression exercise
+Principal components exercise
+Classification exercise
+
+
 
 
 

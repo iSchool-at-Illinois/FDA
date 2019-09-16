@@ -1,5 +1,5 @@
 define(MYSECDATA, SectionData.md)dnl
-define(COURSETITLE, Analytical Foundations for Information Problems)dnl
+define(COURSETITLE, Foundations of Data Analysis)dnl
 define(ASSIGNMENTS, Assignments.md)dnl
 define(POLICIES, Policies.md)dnl
 define(CALENDAR, spring19.cldr)dnl
