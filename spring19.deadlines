@@ -1,59 +1,59 @@
-:HDsets a :Deadline ;
+:HDvectors a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "January 29" ;
   :during :Week3 .
 
-:HDlogic0 a :Deadline ;
+:HDmatrix a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "February 5" ;  
   :during :Week4 .
 
-:HDrelations a :Deadline ;
+:HDdeterminants a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "February 12" ;  
   :during :Week5 .
 
-:HDlogic1 a :Deadline ;
+:HDgeom a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "February 19" ;  
   :during :Week6 .
 
-:HDcounting a :Deadline ;
+:HDlindep a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "February 26" ;  
   :during :Week7 .
 
-:HDprob a :Deadline ;
+:HDlintrans a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "March 5" ;  
   :during :Week8 .
 
-:HDdist a :Deadline ;
+:HDcovtrans a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "March 12" ;  
   :during :Week9 .
 
-:HDgraph1 a :Deadline ;
+:HDeigen a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "April 2" ;  
   :during :Week12 .
 
-:HDgraph2 a :Deadline ;
+:HDlinmod a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "April 9" ;    
   :during :Week13 .
 
-:HDmatrix a :Deadline ;
+:HDregres a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "April 16" ;    
   :during :Week14 .
 
-:HDcode1 a :Deadline ;
+:HDpca a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "April 23" ;    
   :during :Week15 .
 
-:HDcode2 a :Deadline ;
+:HDlda a :Deadline ;
   rdfs:label "assignment due"@en ;
   :date "April 30" ;    
   :during :Week16 .
